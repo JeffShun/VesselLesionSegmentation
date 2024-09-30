@@ -6,10 +6,12 @@ INSTED2024竞赛第三名解决方案（[访问比赛官网](https://www.codaben
     <p>Fig1 血管区域提取 Pipeline</p>
 </div>
 
+
 <div align="center">
     <img src="network.jpg" alt="网络结构" />
     <p>Fig2 网络结构示意图</p>
 </div>
+
 
 <div align="center">
     <img src="lossfunction.jpg" alt="损失函数" />
