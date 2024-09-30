@@ -2,8 +2,11 @@
 INSTED2024竞赛第三名解决方案（[访问比赛官网](https://www.codabench.org/competitions/2139/)
 该方案采用ResUNet3D+ASPP网络来实现脑动脉瘤和脑动脉狭窄的检测和分割。预处理中通过多尺度Frangi滤波提前分割出血管所在区域，分割过程中，网络无需关注血管以外的背景，从而缓解样本不平衡问题。
 ![血管区域提取](preprocess.jpg)
+Fig1 血管区域提取Pipeline
 ![网络结构](network.jpg)
+Fig2 网络结构示意图
 ![损失函数](lossfunction.jpg)
+Fig3 损失函数
 ## 二、文件结构说明
 
 ### 训练文件目录
