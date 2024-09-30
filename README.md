@@ -1,5 +1,5 @@
 ## 一、模型介绍
-INSTED2024竞赛第三名（BriBra）解决方案（[访问比赛官网](https://www.codabench.org/competitions/2139/)）
+INSTED2024竞赛第三名（BriBra）解决方案（[访问比赛官网](https://www.codabench.org/competitions/2139/)）。
 该方案采用ResUNet3D+ASPP网络来实现脑动脉瘤和脑动脉狭窄的检测和分割。预处理中通过多尺度Frangi滤波提前分割出血管所在区域，分割过程中，网络无需关注血管以外的背景，从而缓解样本不平衡问题。
 <div align="center">
     <img src="preprocess.jpg" alt="血管区域提取" style="margin-bottom: 20px;" />
