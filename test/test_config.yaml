@@ -1,0 +1,6 @@
+IA:
+  img_size: [256, 256, 256]
+  seg_thresholds: 0.5
+stenosis:
+  img_size: [256, 256, 256]
+  seg_thresholds: 0.5  

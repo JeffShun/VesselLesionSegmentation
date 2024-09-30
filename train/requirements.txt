@@ -1,0 +1,255 @@
+absl-py @ file:///C:/b/abs_5babsu7y5x/croot/absl-py_1666362945682/work
+addict==2.4.0
+aiohttp @ file:///C:/b/abs_c4zmy2l696/croot/aiohttp_1670009573673/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+altgraph==0.17.3
+ants==0.0.7
+antspynet==0.2.8
+appdirs==1.4.4
+asgiref==3.7.2
+astunparse==1.6.3
+async-timeout @ file:///C:/b/abs_43ozhz2a8g/croots/recipe/async-timeout_1664876362767/work
+asynctest==0.13.0
+attrs==19.3.0
+Automat==22.10.0
+beautifulsoup4==4.12.2
+blinker==1.4
+brainextractor==0.2.2
+brotlipy==0.7.0
+buildtools==1.0.6
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+cattrs==23.1.2
+ccimport==0.4.2
+certifi==2020.6.20
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+chardet==5.2.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+chart-studio==1.1.0
+ci-info==0.3.0
+click @ file:///C:/ci/click_1646038601470/work
+clip==1.0
+cloud-tpu-client==0.10
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+coloredlogs==15.0.1
+connected-components-3d==3.16.0
+constantly==15.1.0
+coremltools==7.1
+cryptography @ file:///C:/b/abs_8ecplyc3n2/croot/cryptography_1677533105000/work
+cumm-cu116==0.4.11
+cycler==0.11.0
+Django==3.2.25
+docopt==0.6.2
+einops==0.6.1
+etelemetry==0.3.1
+exceptiongroup==1.2.0
+filelock==3.12.2
+fire==0.5.0
+flatbuffers @ file:///home/ktietz/cip/python-flatbuffers_1634039120618/work
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+fonttools==4.38.0
+freetype-py==2.4.0
+frozenlist @ file:///C:/b/abs_2bb5uzghsi/croot/frozenlist_1670004511812/work
+fsspec==2023.1.0
+ftfy==6.1.1
+furl==2.1.3
+gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
+gdown==4.7.1
+gevent==22.10.2
+google-api-core==1.34.0
+google-api-python-client==1.8.0
+google-auth==2.21.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+googleapis-common-protos==1.60.0
+greenlet==3.0.3
+grpcio @ file:///C:/ci/grpcio_1637590993074/work
+guidata==2.3.1
+guiqwt==4.3.3
+h5py @ file:///C:/ci/h5py_1659089886851/work
+-e git+ssh://git@github.com/MIC-DKFZ/HD-BET.git@ae160681324d524db3578e4135bf781f8206e146#egg=HD_BET
+hdf5storage==0.1.19
+httplib2==0.22.0
+huggingface-hub==0.16.4
+humanfriendly==10.0
+hyperlink==21.0.0
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+imageio==2.31.0
+imgviz==1.7.5
+importlib-metadata==4.0.1
+incremental==22.10.0
+isodate==0.6.1
+itk==5.3.0
+itk-core==5.3.0
+itk-filtering==5.3.0
+itk-io==5.3.0
+itk-numerics==5.3.0
+itk-registration==5.3.0
+itk-segmentation==5.3.0
+itk-skullstripping==0.1.0
+Jinja2==3.1.3
+joblib==1.3.2
+keras @ file:///C:/Users/builder/adipietro/mc3/tf210/conda-bld/keras_1669760570649/work/keras-2.10.0-py2.py3-none-any.whl
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.4.4
+kornia==0.6.12
+labelme==5.4.0.post1
+lark==1.1.9
+libclang==16.0.0
+littleutils==0.2.2
+llvmlite==0.39.1
+looseversion==1.3.0
+lxml==5.2.2
+Mako==1.2.4
+Markdown @ file:///C:/b/abs_98lv_ucina/croot/markdown_1671541919225/work
+markdown-it-py==2.2.0
+MarkupSafe @ file:///C:/ci/markupsafe_1654508076077/work
+matplotlib==3.5.3
+mdurl==0.1.2
+medutils-mri==0.1.1
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+mmcv==2.1.0
+mmengine==0.10.2
+mpmath==1.3.0
+multidict @ file:///C:/b/abs_6cx_8w3cv2/croot/multidict_1665674238352/work
+natsort==8.4.0
+netron==7.6.0
+networkx==2.6.3
+nibabel==4.0.2
+ninja==1.11.1.1
+nipype==1.8.6
+numba==0.56.4
+numpy @ file:///C:/ci/numpy_and_numpy_base_1653574840943/work
+oauth2client==4.1.3
+oauthlib @ file:///C:/b/abs_2eoymqc2ow/croot/oauthlib_1665490906043/work
+onnx==1.14.1
+onnx-coreml==1.3
+onnx-graphsurgeon==0.5.2
+onnx-simplifier==0.4.33
+onnxruntime==1.14.1
+onnxruntime-gpu==1.14.1
+opencv-python==4.7.0.72
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+orderedmultidict==1.0.1
+outdated==0.2.2
+packaging @ file:///C:/b/abs_cfsup8ur87/croot/packaging_1671697442297/work
+pandas==1.3.5
+pandas-flavor==0.6.0
+patsy==0.5.3
+pccm==0.4.11
+pefile==2023.2.7
+Pillow==9.5.0
+pingouin==0.5.3
+platformdirs==3.5.1
+plotly==5.17.0
+portalocker==2.7.0
+prefetch-generator==1.0.3
+protobuf==3.19.5
+prov==2.0.1
+pyaml==23.5.8
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pybind11==2.11.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycuda @ file:///C:/Users/Administrator/Downloads/pycuda-2021.1%2Bcuda115-cp37-cp37m-win_amd64.whl
+pydicom==2.4.2
+pydot==2.0.0
+pyglet==2.0.10
+Pygments==2.16.1
+pyinstaller==5.13.2
+pyinstaller-hooks-contrib==2023.8
+PyJWT @ file:///C:/ci/pyjwt_1657529476747/work
+PyOpenGL==3.1.0
+pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyparsing==3.0.9
+pyqt-tools==1.0.0
+PyQt5==5.15.9
+pyqt5-plugins==5.15.9.2.3
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+pyqt5-tools==5.15.9.3.3
+pyreadline==2.1
+pyrender==0.1.45
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil==2.8.2
+python-dotenv==0.21.1
+python-opencv==1.0.0.14
+python-vtk==0.1.0
+PythonQwt==0.10.2
+pytools==2022.1.12
+pytz==2023.3
+PyWavelets==1.3.0
+pywin32==306
+pywin32-ctypes==0.2.2
+PyYAML==6.0
+qt5-applications==5.15.2.2.3
+qt5-tools==5.15.2.1.3
+QtPy==2.3.1
+rdflib==6.3.2
+redo==2.0.4
+regex==2023.12.25
+requests @ file:///C:/ci/requests_1657735288441/work
+requests-oauthlib==1.3.0
+retrying==1.3.4
+rich==13.6.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+runstats==2.0.0
+safetensors==0.4.3
+scikit-image==0.19.3
+scikit-learn==1.0.2
+scipy @ file:///C:/ci/scipy_1661333074914/work
+seaborn==0.12.2
+SimpleITK==2.2.1
+simplejson==3.19.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+some-package==0.1
+soupsieve==2.4.1
+spconv-cu116==2.3.6
+SQLAlchemy==2.0.27
+sqlparse==0.4.4
+statsmodels==0.13.5
+sympy==1.10.1
+tabulate==0.9.0
+tenacity==8.2.3
+tensorboard @ file:///C:/Users/builder/adipietro/mc3/tf210/conda-bld/tensorboard_1669760968711/work/tensorboard-2.10.0-py3-none-any.whl
+tensorboard-data-server @ file:///C:/b/abs_2fhvpo862s/croot/tensorboard-data-server_1670853600144/work/tensorboard_data_server-0.6.1-py3-none-any.whl
+tensorboard-plugin-wit @ file:///C:/tf/b/tensorboard-plugin-wit_1660162132996/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+tensorboardX==2.6.2.2
+tensorflow==2.10.0
+tensorflow-estimator @ file:///C:/Users/builder/adipietro/mc3/tf210/conda-bld/tensorflow-estimator_1669761460695/work/tensorflow_estimator-2.10.0-py2.py3-none-any.whl
+tensorflow-intel==2.11.0
+tensorflow-io-gcs-filesystem==0.31.0
+tensorrt @ file:///D:/%E8%BD%AF%E4%BB%B6%E5%8C%85/AI%E5%AE%9A%E4%BD%8D%E8%BD%AF%E4%BB%B6%E5%8C%85/TensorRT-8.4.1.5/python/tensorrt-8.4.1.5-cp37-none-win_amd64.whl
+termcolor @ file:///C:/b/abs_16qe7jhw7n/croot/termcolor_1668084642458/work
+threadpoolctl==3.1.0
+tifffile==2021.11.2
+tokenizers==0.13.3
+tomli==2.0.1
+torch @ file:///C:/Users/Administrator/Downloads/torch-1.13.1%2Bcu117-cp37-cp37m-win_amd64.whl
+torchvision==0.14.0+cu117
+tqdm==4.65.0
+traits==6.3.2
+transformers==4.30.2
+trimesh==4.4.1
+Twisted==23.8.0
+twisted-iocpsupport==1.0.4
+typing==3.7.4.3
+typing_extensions @ file:///C:/b/abs_89eui86zuq/croot/typing_extensions_1669923792806/work
+uritemplate==3.0.1
+urllib3 @ file:///C:/b/abs_9bcwxczrvm/croot/urllib3_1673575521331/work
+vtk==8.1.2
+wcwidth==0.2.13
+webcolors==1.13
+Werkzeug @ file:///C:/b/abs_17q5kgb8bo/croot/werkzeug_1671216014857/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza/croots/recipe/wrapt_1657814452175/work
+xarray==0.20.2
+xmltodict==0.13.0
+yapf==0.40.2
+yarl @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_e5nlunspj6/croots/recipe/yarl_1661437086516/work
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
+zope.event==5.0
+zope.interface==6.2
